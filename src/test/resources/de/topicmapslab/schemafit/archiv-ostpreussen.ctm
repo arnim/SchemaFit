@@ -1,0 +1,1996 @@
+%encoding "UTF-8"
+%version 1.0
+
+# reifier of the topicmap
+
+# topic definitions
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_089>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "089";
+	<http://psi.archiv-ostpreussen.de/description> : " Inneres einer hölzernen 
+ katholischen Dorfkirche. 
+ Blick auf einen gotischen 
+ Flügelaltar (Anf. 16. Jh.) an der 
+ Südwand oder Nordwand. 
+ Aufnahme von 1930/1940. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=089> ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#kurhaus>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#haus>;
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv>;
+	- "Kurhaus".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_404>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "404";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=404> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Ein unbekanntes Dorf.
+ Schule oder Postamt.
+ Aufnahme von 1901/1915.
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_412>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "412";
+	<http://psi.archiv-ostpreussen.de/description> : " Teich in einem Park, 
+ vielleicht Gutspark?
+ Aufnahme von 1901/1915.
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=412> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_056084>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "056084";
+	<http://psi.archiv-ostpreussen.de/description> : " Gromy (Name falsch) - Herrenhaus. 
+ Das Negativ wurde in den fünfziger 
+ Jahren irrtümlich als 
+ 'Gromy, powiat w?gorzewski' 
+ beschrieben. 
+ Im südlichen Teil Ostpreußens, 
+ der nach dem Zweiten Weltkrieg 
+ unter polnische Verwaltung kam, 
+ ist keine Ortschaft unter 
+ dem Namen 'Gromy' zu finden. 
+ Aufnahme von 1901 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=056084> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_387>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "387";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=387> ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " In einem Gutspark.
+ Aufnahme von 1901/1915.
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#blumenstrauss>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv>;
+	- "Blumenstrauß".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_320>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "320";
+	<http://psi.archiv-ostpreussen.de/description> : " Dorf im Großen Moosbruch, 
+ Lkr. Labiau. 
+ Giebelansicht eines Bauernhauses 
+ mit einem geschnitzten Rauchfang. 
+ Aufnahme von 1939. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=320> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_248>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "248";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=248> ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Ein kleines Städtchen. 
+ Aufnahme um 1913. 
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_270>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "270";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Großes Holzgebäude (Amt) 
+ in Ruß, Krs. Heydekrug. 
+ Rechts im Hintergrund 
+ ist eine Kirche zu erkennen. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=270> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_397>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "397";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=397> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Ein Wohnhaus (?) mit großem Tor 
+ am Giebel, links eine Anhöhe.
+ Aufnahme von 1901/1915.
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#place>  .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_439>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "439";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=439> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Laut Inschrift auf dem alten Umschlag 
+ Mollehnen (Kr. Fischhausen). 
+ Möglicherweise wurden aber 
+ auch Umschläge vertauscht. 
+ Die Gegend auf dem Foto sieht wie 
+ ein Platz vor einer Kirche (?) aus. 
+ Soweit bekannt, gab es jedoch 
+ keine Kirche in Mollehnen. 
+ Aufnahme von 1901/1915. 
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#restaurant>  
+	- "Restaurant".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_403>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "403";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=403> ;
+	<http://psi.archiv-ostpreussen.de/description> : " <i>'Kaiserliches Postamt'</i> 
+ an einer Dorfstraße.
+ Aufnahme von 1901/1915.
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1936und1943>  
+	- "1936/1943".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_312>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "312";
+	<http://psi.archiv-ostpreussen.de/description> : " Vermutlich Herrenhaus 
+ zu Gallingen. 
+ Aufnahme ca. 1937 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=312> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_227>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "227";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=227> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Teilansicht eines Stadtparks, 
+ vielleicht in einem Kurort. 
+ Aufnahme von 1901/1915. 
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_390>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "390";
+	<http://psi.archiv-ostpreussen.de/description> : " Ein unbekanntes Dorf.
+ Aufnahme von 1901/1915.
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=390> ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#ruderboot>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv>;
+	- "Ruderboot".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_401>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "401";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=401> ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Eine unbekannte Stadt.
+ Blick von einer Eisenbahnbrücke 
+über den Fluß auf eine 
+ kleine gewerbliche Anlage.
+ Aufnahme von 1901/1915.
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#seeufer>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv>;
+	- "Seeufer".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_393>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "393";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=393> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Vielleicht Blick vom Mauersee 
+ zum Masurischen Kanal.
+ Rechts am Ufer ein Dorf und 
+ eine Hinweistafel 'Telegraph'.
+ Aufnahme von 1901/1915.
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_119>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "119";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=119> ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Plan von Sawadden, 1800/1850. 
+ Leider gibt es viele Ortschaften 
+ mit dem Namen 'Sawadden'. 
+ Aufnahme von 1931/1939. 
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_040>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "040";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Stadtrand am Seeufer. 
+ Im Hintergrund eine 
+ gewerbliche Anlage und Chaussee. 
+ Aufnahme von 1901/1915. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=040> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_026>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "Frau mit Blumenstrauß";
+	- "026";
+	<http://psi.archiv-ostpreussen.de/description> : " Frau mit einem Blumenstrauß. 
+ Wer weiß etwasüber 
+ diese Person, wo lebte sie? 
+ Aufnahme von 1920/1940 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=026> ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_060270>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "060270";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=060270> ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Ostrokollen vielleicht. 
+ Oder: Jüdischer Markt in einem 
+ unbekannten ostpreußischen 
+ Städtchen. 
+ Aufnahme von 1901/1915. 
+ 
+ Martha Kosidowski sagt: 
+ Das ist nie und nimmer Ostrokollen.
+ Zwar war der Ort etwas größer als Schelasken, mein Heimatdorf,
+ aber solche hohen Häuser hat es dort nie gegeben.
+ In Ostrokollen standen nur Bauernhäuser. " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1931und1939>  
+	- "1931/1939".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bruecke>  
+	- "Brücke".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#park>  
+	- "Park".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1930und1943>  
+	- "1930/1943".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_245>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "245";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=245> ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Marktplatz in einem 
+ kleinen Städtchen. 
+ Aufnahme um 1913. 
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_235>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "235";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Teich in einem Park, 
+ vielleicht Stadtpark. 
+ Aufnahme um 1910. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=235> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_487>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "487";
+	<http://psi.archiv-ostpreussen.de/description> : " Fußsteig im Park, 
+ vielleicht in einem Gutspark? 
+ Aufnahme von 1901/1915. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=487> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_414>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "414";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=414> ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Teich in einem Park, 
+ vielleicht Gutspark? 
+ Aufnahme von 1901/1915. 
+ <span> wie das Bild 411</span> " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#j1913>  
+	- "1913".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#frisches_haff>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#landschaft>;
+	- "Frisches Haff".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_057891>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "057891";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=057891> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Dorfstraße in Rossitten 
+ (Kr. Fischhausen) 
+ oder Rossiten (Kr. Pr. Holland). 
+ Aufnahme um 1910. 
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_391>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "391";
+	<http://psi.archiv-ostpreussen.de/description> : " Arbeitersiedlung am Stadtrande.
+ Das Haus links ist 
+ ein 'Kaiserliches Postamt'.
+ Vermutlich Rotfließ, Kr. Rößel. 
+ Aufnahme von 1901/1915.
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=391> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_053>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "053";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=053> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Altargerät aus Zinn (17. Jh.) 
+ in einer (evangelischen?) Dorfkirche. 
+ Aufnahme möglicherweise 
+ von 1901/1915. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_203>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "203";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=203> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Am Meer. 
+ Wo entstand das Bild? 
+ Aufnahme von 1901/1915. 
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1870und1880>  
+	- "1870/1880".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_263>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "263";
+	<http://psi.archiv-ostpreussen.de/description> : " Kriegerdenkmal, 
+ möglicherweise Friedland. 
+ Aufnahme von 1920/1940. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=263> ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_056>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "056";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=056> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Hölzernes Bauerngehöft. 
+ Rechts ein Giebelständerhaus 
+ mit Laube. 
+ Masuren: irgendwo bei Ortelsburg 
+ - Sensburg - Lyck. 
+ Aufnahme möglicherweise 
+ von 1901/1915. 
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#kriegerdenkmal>  
+	- "Kriegerdenkmal".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#strassenname>  
+	- "Straßenname".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_088>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "088";
+	<http://psi.archiv-ostpreussen.de/description> : " Ein unbekanntes Dorf oder 
+ ein kleines Städtchen. 
+ Fassade eines großen 
+ hölzernen Hauses. 
+ Aufnahme von 1901/1915. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=088> ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#j1910>  
+	- "1910".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_161>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "161";
+	<http://psi.archiv-ostpreussen.de/description> : " Inneres einer gotischen 
+ katholischen Dorfkirche. 
+ Negativ beschädigt. 
+ Messing- oder Zinngefäß, 
+ Barock, mit einer Inschrift: 
+ <i>...this Reissacher/ ...er.ü. 
+ Hamer/ ...in Stäshof</i> 
+ Die Kirche einschiffig mit Chor, 
+ der Hochaltar im Barockstil, 
+ der linke Seitenaltar 
+ spätbarock. 
+ Aufnahme von 1901/1915. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=161> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#probably-located-in>  
+	- "Wahrscheinlicher Ort der Aufnahme.".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_489>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "489";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Königsberg. Eine unbekannte 
+ Straße auf dem Sackheim (?). 
+ Perspektivische Ansicht. 
+ Negativ beschädigt. 
+ Dargestellter Stadtteil ist nur nach 
+ der alten Numerierung zu vermuten. 
+ Aufnahme um 1910. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=489> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1920und1940>  
+	- "1920/1940".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_042>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "042";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Ein unbekanntes Dorf. 
+ Eine Familie vor der Laube 
+ eines Fachwerkhauses Nr. 8.
+ Wer waren diese Personen, 
+ wo lebten sie? 
+ Aufnahme von 1901/1915. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=042> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_426>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "426";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=426> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Restaurant im Park. 
+ Vielleicht Kahlberg? 
+ Aufnahme von 1901/1915. 
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_234>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "234";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=234> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Königsberg: 
+ Eine unbekannte Straße 
+ auf dem Steindamm. 
+ Negativ teilweise erhalten. 
+ Dargestellter Stadtteil ist nur 
+ nach der alten Numerierung 
+ zu vermuten. 
+ Aufnahme von 1907/1913. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_280>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "280";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=280> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Straßenansicht 
+ mit dem 'Kaiserlichen Postamt'. 
+ Aufnahme von 1901/1915. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_249>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "249";
+	<http://psi.archiv-ostpreussen.de/description> : " Flußansicht 
+ in einer kleinen Stadt. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=249> ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#maedchen>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#person>;
+	- "Mädchen".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#grosses-moosbruch>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#landschaft>;
+	- "Großes Moosbruch".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_394>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "394";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Vor einem Herrenhaus. 
+ Links ein Speicher wie in Legienen.
+ Aufnahme von 1901/1915.
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=394> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_388>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "388";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=388> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Damm oder Schleuse am Fluß.
+ Aufnahme von 1901/1915.
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1930und1940>  
+	- "1930/1940".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_256>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "256";
+	<http://psi.archiv-ostpreussen.de/description> : " Vor einem Kurhaus oder Restaurant. 
+ Aufnahme von 1901/1915. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=256> ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#altar>  
+	- "Altar".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#kurisches_haff>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#landschaft>;
+	- "Kurisches Haff".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_056081>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "056081";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=056081> ;
+	<http://psi.archiv-ostpreussen.de/description> : "Gromy (Name falsch) - Herrenhaus.
+Das Negativ wurde in den 
+ fünfziger Jahren irrtümlich
+als 'Gromy, powiat w?gorzewski' beschrieben.
+Im südlichen Teil Ostpreußens,
+der nach dem Zweiten Weltkrieg
+unter polnische Verwaltung kam,
+ist keine Ortschaft unter
+dem Namen 'Gromy' zu finden.
+Aufnahme von 1896." .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#gruft>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv>;
+	- "Gruft".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_405>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "405";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=405> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Ein unbekanntes Dorf.
+ Teilansicht eines Hauses 
+ mit hölzernen Vorlaube.
+ Die Vorlaube neu, 
+ mit Jahreszahl '1930'.
+ Aufnahme von 1930/1938.
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#personen>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv>;
+	- "Personen".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_445>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "445";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=445> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Allee in einem Park, 
+ vielleicht ein Gutspark. 
+ Aufnahme von 1901/1915. 
+ " .
+
+<http://sws.geonames.org/763166/>  
+	isa <http://dbpedia.org/ontology/Place>;
+	- "Allenstein".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_058>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "058";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Restaurant im Park. 
+ Metgethen? 
+ Aufnahme von 1901/1915. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=058> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#kirche>  
+	- "Kirche".
+
+<http://psi.archiv-ostpreussen.de/image>  
+	- "Image".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_236>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "236";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Ein Fußsteig im Walde. 
+ Aufnahme von 1930/1940. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=236> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_266>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "266";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=266> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Großes Gebäude 
+ im Neugotik-Stil, 
+ möglicherweise in Riesenburg. 
+ Kaserne? Hospital? Schule? 
+ Aufnahme von 1901/1915. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv>  
+	- "Motiv".
+
+<http://sws.geonames.org/776337/>  
+	isa <http://dbpedia.org/ontology/Place>;
+	- "Bartenstein".
+
+<http://psi.archiv-ostpreussen.de/description>  
+	- "Description".
+
+<http://dbpedia.org/ontology/Place>  
+	- "Ort".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#landkreis>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#kreis>;
+	- "Landkreis".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_204>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "204";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Möglicherweise entstand 
+ das Foto in einer Stadt. 
+ Ein großes Haus 
+ hinter den Bäumen. 
+ Aufnahme von 1901/1915. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=204> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#dorf>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv>;
+	- "Dorf".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_006>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "006";
+	<http://psi.archiv-ostpreussen.de/description> : " Der junge bärtige Mann, 
+ stehend in der Mitte, vielleicht 
+ Provinzialkonservator 
+ Richard Dethlefsen. 
+ Wer weiß etwasüber 
+ diese Personen, wo lebten sie? 
+ Reproduktion 1930/1940 
+ aus einem Abzug um 1900. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=006> ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status>  
+	- "Status".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_226>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "226";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Mädchenportrait. 
+ Reproduktion 1930/1940 
+ aus einem Abzug von 1870/1880. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=226> .
+
+<http://sws.geonames.org/826306/>  
+	isa <http://dbpedia.org/ontology/Place>;
+	- "Gallingen".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#landschaft>  
+	- "Landschaft";
+	<http://psi.archiv-ostpreussen.de/description> : "Eine Landschaft ist ein geographisches Gebiet, 
+das sich durch unterschiedliche Merkmale von anderen Gebieten abgrenzt." .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#hollaenderwindmuehle>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv>;
+	- "Holländerwindmühle".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#altargeraet>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv>;
+	- "Altargerät".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_496>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "496";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Boote an einer Anlegestelle 
+ am Flußufer. 
+ Links im Hintergrund ein 
+ mehrstöckiger Fachwerkspeicher. 
+ Niederung? Inse? 
+ Aufnahme von 1901/1915. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=496> .
+
+<http://sws.geonames.org/565810/>  
+	isa <http://dbpedia.org/ontology/Place>;
+	- "Pillkallen".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#j1896>  
+	- "1896".
+
+<http://sws.geonames.org/772621/>  
+	isa <http://dbpedia.org/ontology/Place>;
+	- "Lyck".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_056080>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "056080";
+	<http://psi.archiv-ostpreussen.de/description> : " Gromy (Name falsch) - Herrenhaus. 
+ Das Negativ wurde in den 
+ fünfziger Jahren irrtümlich 
+ als 'Gromy, powiat w?gorzewski' 
+ beschrieben. 
+ Im südlichen Teil Ostpreußens, 
+ der nach dem Zweiten Weltkrieg 
+ unter polnische Verwaltung kam, 
+ ist keine Ortschaft unter 
+ dem Namen 'Gromy' zu finden. 
+ Aufnahme von 1901 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=056080> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_410>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "410";
+	<http://psi.archiv-ostpreussen.de/description> : " In einem Stadtpark.
+ Aufnahme von 1901/1915.
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=410> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#frau>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv>;
+	- "Frau".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>  
+	- "1901/1915".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_468>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "468";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=468> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Plan von 1800/1850 eines Dorfes 
+ am Fluß Goldap, 
+ südlich von Angerburg. 
+ Aufnahme von 1931/1939. 
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_497>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "497 ";
+	<http://psi.archiv-ostpreussen.de/description> : " Vermutlich Burg zu Heilsberg 
+ oder eher Marienburg. 
+ Aufnahme von 1936/1943 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=497> .
+
+<http://sws.geonames.org/764312/>  
+	isa <http://dbpedia.org/ontology/Place>;
+	- "Sensburg".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#kreis>  
+	- "Kreis".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_307>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "307";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Stickerei mit Texten aus dem 
+ Evangelium. 
+  Vielleicht Museum im 
+ Schloß zu Allenstein. 
+ Aufnahme von 1930/1940. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=307> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_264>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "264";
+	<http://psi.archiv-ostpreussen.de/description> : " Große Eisenbahnbrücke 
+über einen Fluß 
+ (nicht Darkehmen). 
+ Aufnahme um 1913. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=264> ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website>  
+	- "Website".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#heydekrug>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#kreis>;
+	- "Heydekrug".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_408>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "408";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=408> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Portraitaufnahme eines 
+ jungen Mannes.
+ Reproduktion eines 
+ Abzugs von 1920/1940.
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_506>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "506";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=506> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Wiese am Flußufer. 
+ Aufnahme von 1901/1915. 
+ " .
+
+<http://sws.geonames.org/505599/>  
+	isa <http://dbpedia.org/ontology/Place>;
+	- "Friedland".
+
+<http://sws.geonames.org/554234/>  
+	isa <http://dbpedia.org/ontology/Place>;
+	- "Königsberg".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#steindamm>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#strassenname>;
+	- "Steindamm".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#j1937>  
+	- "1937".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_056083>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "056083";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=056083> ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Gromy (Name falsch) - Herrenhaus. 
+ Das Negativ wurde in den fünfziger 
+ Jahren irrtümlich als 
+ 'Gromy, powiat w?gorzewski' 
+ beschrieben. 
+ Im südlichen Teil Ostpreußens, 
+ der nach dem Zweiten Weltkrieg 
+ unter polnische Verwaltung kam, 
+ ist keine Ortschaft unter 
+ dem Namen 'Gromy' zu finden. 
+ Aufnahme von 1901 
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_228>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "228";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=228> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Herrenhaus in einem 
+ unbekannten Dorf. 
+ Ansicht der Gartenseite. 
+ Aufnahme von 1930/1940. 
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_453>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "453";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=453> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Sandige Wandlichtung - 
+ oder Düne, beschrieben als 'Gr. Katzengründe weißes Meer'. In oder bei Rauschen?
+ Aufnahme von 1901/1915. 
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken>  
+	- "Aufnahmezeitraum".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_246>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "246";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Stadt: Teilortsansicht. 
+ Aufnahme von 1901/1915. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=246> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#stadtrand>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv>;
+	- "Stadtrand".
+
+<http://sws.geonames.org/595087/>  
+	isa <http://dbpedia.org/ontology/Place>;
+	- "Ruß".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_301>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "301";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=301> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Königsberg vielleicht. 
+ Aufnahme von 1930/1943. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_667>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "667";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=667> ;
+	<http://psi.archiv-ostpreussen.de/description> : "In eigener Sache:
+
+ Liebe Braunsberger,
+ ich bitte um Ihre Unterstützung bei der Ermittlung von Einzelheiten
+ zu diesem Foto aus meinem privaten Album.
+ Es entstand wahrscheinlich um 1940 am Strand von Kahlberg oder Narmeln
+ und zeigt meine Großtante Helene Ubländer, genannt Lena, im Kreise von Freunden.
+ Wie heißen die anderen Personen, was wurde aus ihnen?
+ Eine weitere Frage bezieht sich auf ihren Mann Johannes U., rechts im Bild:
+ Er wird seit der Schlacht bei <b>Siglian</b> am 17.10.1944 vermißt,
+ wie sein Kompanieführer Wisotzki brieflich mitteilte.
+ Wer kann sagen, wo sich dieser Ort befindet (wahrscheinlich im Osten)
+ und wie er heute heißt?
+ 
+ Besitzt jemand ein altes Foto, auf dem <b>Heinrich Rettig</b> 
+ (Küster von St. Katharina, gestorben 1942) zu sehen ist?
+ Ist auf einem Bild in Ihrem Fotoalbum das Haus des Küsters, 
+ gegenüber dem Seiteneingang der Pfarrkirche erkennbar? 
+ Wer kann Auskunft geben zu dem Gut Marienfelde bei Braunsberg oder hat ein altes Foto von dem Anwesen? " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#haus>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv>;
+	- "Haus".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_269>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "269";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=269> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Barockbild der Kreuzabnahme 
+ in einem neugotischen Altar. 
+ Aufnahme von 1930/1940. 
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_446>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "446";
+	<http://psi.archiv-ostpreussen.de/description> : " Vielleicht ein Kurort? 
+ Links eine Tafel'Verbotener Weg'. 
+ Aufnahme von 1901/1915. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=446> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_037>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "Dorfpanorama";
+	- "037";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=037> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Dorfpanorama. Irgendwo am 
+ Frischen Haff oder 
+ eher am Kurischen Haff. 
+ Aufnahme von 1901/1915 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_258>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "258";
+	<http://psi.archiv-ostpreussen.de/description> : " Masurischer Schrank, 1795. 
+ Vermutlich Bartenstein. 
+ Aufnahme möglicherweise von 1937. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=258> ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#labiau>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#landkreis>;
+	- "Labiau".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_048>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "048";
+	<http://psi.archiv-ostpreussen.de/description> : " Reproduktion des Abzugs 
+ einer Aufnahme von 1920/1940. 
+ Wer ist dieses Mädchen, 
+ wo lebte es? 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=048> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#wohnhaus>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#haus>;
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv>;
+	- "Wohnhaus".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_056082>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "056082";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Gromy (Name falsch) - Herrenhaus.
+ Das Negativ wurde in den fünfziger 
+ Jahren irrtümlich als 
+ 'Gromy, powiat w?gorzewski' 
+ beschrieben. 
+ Im südlichen Teil Ostpreußens, 
+ der nach dem Zweiten Weltkrieg 
+ unter polnische Verwaltung kam, 
+ ist keine Ortschaft.
+ unter dem Namen 'Gromy' zu finden. 
+ Aufnahme von 1896 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=056082> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#gutspark>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#park>;
+	- "Gutspark".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#fluss>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv>;
+	- "Fluß".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_044>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "044";
+	<http://psi.archiv-ostpreussen.de/description> : " Hölzerner Aussichtsturm 
+ am Seeufer oder 
+ Leuchtturm am Meer? 
+ Schriftzug 'Rosenthal' an beiden Gebäuden.
+ Aufnahme von 1901/1915. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=044> ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_396>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "396";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : "Pillkallen -
+ Neue Anlagen.
+ Aufnahme von 1901/1915.
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=396> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_251>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "251";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=251> ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " In einer Bildhauerwerkstatt 
+ (vielleicht Paul Kimritz 
+ in Königsberg, 
+ Bildhauer und Konservator 
+ der alten Skulptur). 
+ Aufnahme von 1930/1940. 
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#herrenhaus>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#haus>;
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv>;
+	- "Herrenhaus".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#turm>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv>;
+	- "Turm".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_395>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "395";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Dorfansicht. Auf der Tafel: 
+ <i>'Königl. Pr Schulzen
+ Amt zu S... feld'</i>; 
+ Ortsname unbekannt (Seefeld?).
+ Links ein gemauerter Bildstock.
+ Aufnahme von 1901/1915.
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=395> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#fachwerkhaus>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#haus>;
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv>;
+	- "Fachwerkhaus".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#j1901>  
+	- "1901".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_004>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "004";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Holländerwindmühle 
+ in einem unbekannten Dorf.
+ Aufnahme von 1930/1943
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=004> .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_406>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "406";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=406> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Ein unbekanntes Dorf. Litauen?
+ Im Hintergrund 'Hotel Steinhoefel'.
+ Aufnahme von 1901/1915.
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#person>  .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_413>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "413";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=413> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Teich in einem Gutspark 
+ oder in einem Kurort.
+ Aufnahme von 1901/1915.
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#laube>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv>;
+	- "Laube".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_046>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "046";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Hinter den Kiefern neben 
+ der Straße ein großes 
+ hölzernes Haus auf einem Feldsteinunterbau, 
+ mit Vorlaube. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=046> .
+
+<http://sws.geonames.org/757357/>  
+	isa <http://dbpedia.org/ontology/Place>;
+	- "Ortelsburg".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#j1939>  
+	- "1939".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#ermland>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#landschaft>;
+	- "Ermland".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_389>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "389";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=389> ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Innenraum einer 
+ kreuzgewölbten Gruft.
+ Aufnahme von 1930/1940.
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_247>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "247";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=247> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Haus an einem
+ preußisch-russischen Grenzübergang, 
+ vielleicht ein Zollamt.
+ Sicherlich nicht Prostken. 
+ Aufnahme um 1913. 
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_238>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "238";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=238> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Frauenportrait. 
+ Leider ist nur dieses Textfragment erhalten. 
+ Wer kennt diese Frau? 
+ Reproduktion eines Abzugs 
+ von 1930/1940. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_038>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "038";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=038> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Ruderboot am Flußufer. 
+ Im Hintergrund ein unbekanntes Dorf 
+ (vielleicht Niederung 
+ oder Großes Moosbruch). 
+ Negativ starküberbelichtet 
+ und beschädigt. 
+ Aufnahme von 1901/1915. 
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_411>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "411";
+	<http://psi.archiv-ostpreussen.de/description> : " Teich im Park, 
+ Aufnahme von 1901/1915.
+ Dieses Bild entstand im selben Park 
+ <span> wie das Bild 414 </span> " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=411> ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bauernhaus>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#haus>;
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv>;
+	- "Bauernhaus".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#mann>  
+	isa ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#person>;
+	- "Mann".
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_232>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "232";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=232> ;
+	<http://psi.archiv-ostpreussen.de/description> : " Eine Brücke, im Hintergrund 
+ ein unbekanntes Dorf 
+ am Flußufer. 
+ Negativ beschädigt. 
+ Aufnahme von 1901/1915. 
+ " .
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_386>  
+	isa <http://psi.archiv-ostpreussen.de/image>;
+	- "386";
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#status> : "unbekannt" ;
+	<http://psi.archiv-ostpreussen.de/description> : " Dorfstraße. Links 
+ möglicherweise eine Dorfschule
+ irgendwo im Ermland.
+ Von der Ortsangabe am Rande der 
+ Platte sind nur die Buchstaben 
+ <i>Ale... (?)</i> zu erkennen.
+ Aufnahme von 1901/1915.
+ " ;
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#website> : <http://archiv-ostpreussen.de/sammlung/bilder/index_html?bild=386> .
+
+# association definitions
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#dorf>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_393>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_246>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#dorf>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_228>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bruecke>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_264>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#probably-located-in> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#place> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#labiau>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_320>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_446>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_394>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#herrenhaus>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_394>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_053>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_389>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#gruft>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#fluss>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_232>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_203>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_410>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_256>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#kurhaus>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#j1910>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_235>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#probably-located-in> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#place> : <http://sws.geonames.org/826306/>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_312>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_387>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#gutspark>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_228>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1930und1940>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#j1901>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_056084>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#probably-located-in> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_037>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#place> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#frisches_haff>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_414>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#herrenhaus>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_228>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_056>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#probably-located-in> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#place> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#heydekrug>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_270>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1930und1940>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_089>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1930und1943>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_301>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_396>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_161>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#altar>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#probably-located-in> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_056>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#place> : <http://sws.geonames.org/764312/>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_264>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#fluss>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_089>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#kirche>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1920und1940>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_408>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_161>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_060270>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_403>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_389>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1930und1940>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_390>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#maedchen>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_226>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#j1939>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_320>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_413>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_056081>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#j1896>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_026>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#blumenstrauss>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#probably-located-in> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_396>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#place> : <http://sws.geonames.org/565810/>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_232>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bruecke>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_251>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#mann>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#frau>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_026>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_037>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_038>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#fluss>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#probably-located-in> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_258>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#place> : <http://sws.geonames.org/776337/>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#haus>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_056>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_161>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#kirche>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#turm>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_044>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_388>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_263>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#kriegerdenkmal>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#probably-located-in> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#place> : <http://sws.geonames.org/554234/>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_301>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1920und1940>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_048>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#probably-located-in> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_307>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#place> : <http://sws.geonames.org/763166/>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#j1913>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_248>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_227>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_401>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#fluss>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1931und1939>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_119>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#herrenhaus>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_056084>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#probably-located-in> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_270>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#place> : <http://sws.geonames.org/595087/>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_312>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#j1937>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_040>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#seeufer>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#probably-located-in> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#place> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#grosses-moosbruch>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_320>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#j1901>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_056083>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_387>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_496>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_251>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1930und1940>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_439>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_044>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#laube>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_056>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_397>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_487>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#probably-located-in> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#place> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#ermland>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_386>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_256>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#fluss>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_249>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_395>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_042>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#fachwerkhaus>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_397>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#wohnhaus>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_404>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_269>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#altar>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#herrenhaus>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_056080>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_312>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#herrenhaus>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_238>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1930und1940>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_280>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_266>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#dorf>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_390>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_506>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_391>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_411>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#probably-located-in> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_056>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#place> : <http://sws.geonames.org/772621/>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#altargeraet>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_053>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_489>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#j1910>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#haus>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_046>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_038>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#ruderboot>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_453>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#probably-located-in> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#place> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#kurisches_haff>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_037>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_445>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_388>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#fluss>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_042>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#personen>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_406>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_401>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#j1913>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_247>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_238>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#frau>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_058>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_042>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_256>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#restaurant>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#dorf>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_395>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_204>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_004>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1930und1943>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_004>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#dorf>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_226>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1870und1880>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1930und1940>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_236>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_426>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#probably-located-in> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#place> : <http://sws.geonames.org/554234/>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_234>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#probably-located-in> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_056>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#place> : <http://sws.geonames.org/757357/>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1931und1939>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_468>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#probably-located-in> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_263>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#place> : <http://sws.geonames.org/505599/>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#herrenhaus>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_056082>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_004>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#hollaenderwindmuehle>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#park>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_227>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_042>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#dorf>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1936und1943>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_497>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_245>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#j1913>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_040>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#stadtrand>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_038>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#probably-located-in> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#place> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#steindamm>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_234>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#dorf>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_037>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_412>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_056080>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#j1901>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_088>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_038>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#dorf>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1930und1940>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_269>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_056082>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#j1896>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#person>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_226>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1930und1940>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_307>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_232>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_386>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_393>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#time-taken> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#zw1901und1915>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bauernhaus>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_320>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#altar>,
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_089>
+)
+
+^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> (
+	<http://psi.archiv-ostpreussen.de/image> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#bild_056081>,
+	^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#motiv> : ^<http://maiana.topicmapslab.de/u/peter/tm/archiv-ostpreussen/#herrenhaus>
+)
+
+# Generated by the CTM Topic Map Writer.
