@@ -37,4 +37,5 @@ Maven:
 ## License & Copyright
 
 Apache License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.html
+
 © 2009-2011 Topic Maps Lab, University of Leipzig. http://www.topicmapslab.de
