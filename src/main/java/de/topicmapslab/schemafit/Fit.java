@@ -1,3 +1,8 @@
+/*
+ * Copyright: Copyright 2010 Topic Maps Lab, University of Leipzig. http://www.topicmapslab.de/
+ * License:   Apache License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.html
+ */
+
 package de.topicmapslab.schemafit;
 
 import java.math.BigInteger;
@@ -16,7 +21,10 @@ import org.tmapi.core.TopicMap;
 
 import de.topicmapslab.majortom.model.namespace.Namespaces;
 import de.topicmapslab.tmql4j.components.processor.results.model.IResult;
-import de.topicmapslab.tmql4j.util.XmlSchemeDatatypes;
+
+/**
+ * @author <a href="mailto:arnim.bleier+fit@gmail.com">Arnim Bleier</a>
+ */
 
 @SuppressWarnings({ "rawtypes", "unchecked" })
 public class Fit {
@@ -59,7 +67,7 @@ public class Fit {
 				Namespaces.TMCL.TOPIC_OCCURRENCE_CONSTRAINT);
 		doTopicVariantNameConstraint(tmData, tmSchema);
 		doTopicRoleConstraint(tmData, tmSchema);
-		doScopeConstraint(tmData, tmSchema);
+//		doScopeConstraint(tmData, tmSchema);
 		doReifierConstraint(tmData, tmSchema);
 //		doAssociationRoleConstraintt(tmData, tmSchema);
 		doOccurrenceDataTypeConstraint(tmData, tmSchema);
@@ -411,14 +419,14 @@ public class Fit {
 		}
 	}
 
-	public void doScopeConstraint(TopicMap tm, TopicMap tmSchema) {
-		Iterator<?> resultIterator = execute(tm, QueryString.SCOPE);
-		while (resultIterator.hasNext()) {
-			IResult r = (IResult) resultIterator.next();
-			// System.out.println(r);
-
-		}
-	}
+//	public void doScopeConstraint(TopicMap tm, TopicMap tmSchema) {
+//		Iterator<?> resultIterator = execute(tm, QueryString.SCOPE);
+//		while (resultIterator.hasNext()) {
+//			IResult r = (IResult) resultIterator.next();
+//			// System.out.println(r);
+//
+//		}
+//	}
 
 	/**
 	 * 7.12 Reifier Constraint & 7.13 Topic Reifies Constraint

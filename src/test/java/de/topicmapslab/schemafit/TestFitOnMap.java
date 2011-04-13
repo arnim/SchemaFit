@@ -1,3 +1,8 @@
+/*
+ * Copyright: Copyright 2010 Topic Maps Lab, University of Leipzig. http://www.topicmapslab.de/
+ * License:   Apache License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.html
+ */
+
 package de.topicmapslab.schemafit;
 
 import static org.junit.Assert.assertEquals;
@@ -21,6 +26,9 @@ import de.topicmapslab.tmclvalidator.ValidationResult;
 import de.topicmapslab.tmql4j.components.processor.runtime.ITMQLRuntime;
 import de.topicmapslab.tmql4j.components.processor.runtime.TMQLRuntimeFactory;
 
+/**
+ * @author <a href="mailto:arnim.bleier+fit@gmail.com">Arnim Bleier</a>
+ */
 public class TestFitOnMap {
 
 	static Fit _fitt;

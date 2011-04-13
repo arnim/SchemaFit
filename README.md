@@ -28,8 +28,8 @@ Maven:
 	<repositories>
 		...
 		<repository>
-			<id>tmlab-internal</id>
-			<url>http://maven.topicmapslab.de/internal</url>
+			<id>tmlab</id>
+			<url>http://maven.topicmapslab.de/public/</url>
 		</repository>
 		...
 	</repositories>

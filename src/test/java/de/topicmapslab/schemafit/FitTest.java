@@ -1,9 +1,13 @@
+/*
+ * Copyright: Copyright 2010 Topic Maps Lab, University of Leipzig. http://www.topicmapslab.de/
+ * License:   Apache License, Version 2.0 http://www.apache.org/licenses/LICENSE-2.0.html
+ */
+
 package de.topicmapslab.schemafit;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 
-import java.util.LinkedList;
 import java.util.Map;
 import java.util.Set;
 
@@ -28,6 +32,10 @@ import de.topicmapslab.tmql4j.components.processor.runtime.ITMQLRuntime;
 import de.topicmapslab.tmql4j.components.processor.runtime.TMQLRuntimeFactory;
 import de.topicmapslab.tmql4j.util.XmlSchemeDatatypes;
 
+
+/**
+ * @author <a href="mailto:arnim.bleier+fit@gmail.com">Arnim Bleier</a>
+ */
 public class FitTest {
 
 	static Fit _fitt;
@@ -378,18 +386,18 @@ public class FitTest {
 	
 	
 	// 7.10 Scope Constraint
-	@Test
-	public void testScopeConstraint(){
-		LinkedList<Topic> scope1 = new LinkedList<Topic>();
-		scope1.add(_tm.createTopicBySubjectIdentifier(_tm
-				.createLocator("http://foo.net/scope1")));
-		scope1.get(0).addType(_tm.createTopicBySubjectIdentifier(_tm
-				.createLocator("http://foo.net/Scope1Type")));
-		hansName = hans.createName("Hansus",  scope1 );
-
-		_fitt.doScopeConstraint(_tm, _tmSchema);
-
-	}
+//	@Test
+//	public void testScopeConstraint(){
+//		LinkedList<Topic> scope1 = new LinkedList<Topic>();
+//		scope1.add(_tm.createTopicBySubjectIdentifier(_tm
+//				.createLocator("http://foo.net/scope1")));
+//		scope1.get(0).addType(_tm.createTopicBySubjectIdentifier(_tm
+//				.createLocator("http://foo.net/Scope1Type")));
+//		hansName = hans.createName("Hansus",  scope1 );
+//
+//		_fitt.doScopeConstraint(_tm, _tmSchema);
+//
+//	}
 	
 	
 	// 7.11 Scope Required Constraint
