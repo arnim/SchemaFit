@@ -167,7 +167,7 @@ public class Fit {
 					Iterator<String> ii = all.iterator();
 					while (ii.hasNext()) {
 						String string = (String) ii.next();
-						String call = " overlaps(<" + string + ">, <" + s
+						String call = " overlaps( <" + string + ">, <" + s
 								+ ">)";
 						 insert(tmSchema, TEMPLATE.OVERLAPTYPES + call);
 					}
@@ -228,11 +228,11 @@ public class Fit {
 			int max = Collections.max(map.get(key));
 			String call;
 			if (max < 1) {
-				call = " " + as + "(" + key + ", 0, 0, \".*\")";
+				call = " " + as + "( <" + key + "> , 0, 0, \".*\")";
 			} else if (max == 1) {
-				call = " " + as + "(" + key + ", 0, 1, \".*\")";
+				call = " " + as + "( <" + key + "> , 0, 1, \".*\")";
 			} else {
-				call = " " + as + "(" + key + ", 0, *, \".*\")";
+				call = " " + as + "( <" + key + "> , 0, *, \".*\")";
 			}
 			insert(tmSchema, template + call);
 			map.remove(key);
@@ -282,7 +282,7 @@ public class Fit {
 		ii = instanceSet.iterator();
 		while (ii.hasNext()) {
 			String inst = ii.next();
-			resultIterator = execute(tmData, "FOR $n IN " + inst + " >> characteristics " + qs +" RETURN fn:best-identifier( $n >> types, ‘false‘)");
+			resultIterator = execute(tmData, "FOR $n IN <" + inst + "> >> characteristics " + qs +" RETURN fn:best-identifier( $n >> types, ‘false‘)");
 			if (!instanceNameTypes.containsKey(inst))
 				instanceNameTypes.put(inst, new LinkedList<String>());
 			while (resultIterator.hasNext()) 
